@@ -1,2 +1,1 @@
-# DiabetApp
-iOSDev Project
+# Diabetios
